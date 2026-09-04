@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Shimizu
+    given-names: Masaki
+  - family-names: Watanabe
+    given-names: Daiki
+  - family-names: Aoyagi
+    given-names: Takumi
+  - family-names: Goto
+    given-names: Susumu
+title: "Optimization of Mixing"
+version: 1.0.0
+# doi: 10.5281/zenodo.XXXXXXX # Zenodo等と連携している場合は記載
+date-released: 2026-09-05
+url: "https://github.com/RL-for-fluid/mixing.git"
